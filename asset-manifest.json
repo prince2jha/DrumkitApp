@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DrumkitApp/static/css/main.ad476d20.chunk.css",
+    "main.js": "/DrumkitApp/static/js/main.453f8b5e.chunk.js",
+    "main.js.map": "/DrumkitApp/static/js/main.453f8b5e.chunk.js.map",
+    "runtime-main.js": "/DrumkitApp/static/js/runtime-main.a7a64f76.js",
+    "runtime-main.js.map": "/DrumkitApp/static/js/runtime-main.a7a64f76.js.map",
+    "static/js/2.fb1772bf.chunk.js": "/DrumkitApp/static/js/2.fb1772bf.chunk.js",
+    "static/js/2.fb1772bf.chunk.js.map": "/DrumkitApp/static/js/2.fb1772bf.chunk.js.map",
+    "static/js/3.aaa8eed5.chunk.js": "/DrumkitApp/static/js/3.aaa8eed5.chunk.js",
+    "static/js/3.aaa8eed5.chunk.js.map": "/DrumkitApp/static/js/3.aaa8eed5.chunk.js.map",
+    "index.html": "/DrumkitApp/index.html",
+    "static/css/main.ad476d20.chunk.css.map": "/DrumkitApp/static/css/main.ad476d20.chunk.css.map",
+    "static/js/2.fb1772bf.chunk.js.LICENSE.txt": "/DrumkitApp/static/js/2.fb1772bf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DrumkitApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a64f76.js",
+    "static/js/2.fb1772bf.chunk.js",
+    "static/css/main.ad476d20.chunk.css",
+    "static/js/main.453f8b5e.chunk.js"
+  ]
+}
