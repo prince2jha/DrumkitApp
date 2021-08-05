@@ -1,0 +1,15 @@
+.pad{
+    background-color: antiquewhite;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid #fc3;
+    margin: 10px;
+}
+.active-pad{
+    transform: scale(1.2);
+}
